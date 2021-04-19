@@ -1,3 +1,2 @@
 Just copy this line of code and peast it in the console of google chrome
 Runner.instance_.gameOver = () => {}
-the quick brown fox jumps over the lazy dog.
