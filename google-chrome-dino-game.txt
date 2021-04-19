@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Runner.instance_.gameOver = () => {}
 
 the quick brown fox jumps over the lazy dog.
+=======
+Just copy this line of code and peast it in the console of google chrome
+Runner.instance_.gameOver = () => {}
+>>>>>>> 5c442cbb5f5e8262aa1e46072c1ae78be9633baf
